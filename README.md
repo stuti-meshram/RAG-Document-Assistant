@@ -238,5 +238,3 @@ Tests use `moto` to mock AWS S3 — no real AWS credentials required.
 - **[moto](https://docs.getmoto.org/)** — AWS mock for unit tests
 
 ---
-
-MIT © 2024
